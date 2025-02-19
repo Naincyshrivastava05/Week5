@@ -1,4 +1,4 @@
-package com.ioprogramming.advanceprogramming.CSVDataintoJavaObjects;
+package com.ioprogramming.advanceprogramming;
 
 import java.io.*;
 import java.util.*;

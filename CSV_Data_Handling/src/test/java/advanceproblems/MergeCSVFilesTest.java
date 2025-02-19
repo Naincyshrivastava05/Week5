@@ -1,6 +1,6 @@
 package advanceproblems;
 
-import com.ioprogramming.advanceprogramming.CSVDataintoJavaObjects.MergeCSVFiles;
+import com.ioprogramming.advanceprogramming.MergeCSVFiles;
 import org.junit.jupiter.api.*;
 import java.io.*;
 import java.nio.file.*;
@@ -35,7 +35,7 @@ public class MergeCSVFilesTest {
             writer.write("5,88,A\n");
         }
     }
-    
+
     @Test
     void testMergeCSVFiles() throws IOException {
         // Call the merging function
