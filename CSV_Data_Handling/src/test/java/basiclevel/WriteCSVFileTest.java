@@ -27,8 +27,5 @@ class WriteCSVFileTest {
         }
     }
 
-    @AfterEach
-    void tearDown() throws IOException {
-        Files.deleteIfExists(Paths.get(TEST_CSV_FILE));
-    }
+
 }

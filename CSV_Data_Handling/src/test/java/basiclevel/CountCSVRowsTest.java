@@ -26,8 +26,5 @@ class CountCSVRowsTest {
         assertEquals(5, rowCount, "CSV file should contain 5 records");
     }
 
-    @AfterEach
-    void tearDown() throws IOException {
-        Files.deleteIfExists(Paths.get(TEST_CSV_FILE));
-    }
+
 }
