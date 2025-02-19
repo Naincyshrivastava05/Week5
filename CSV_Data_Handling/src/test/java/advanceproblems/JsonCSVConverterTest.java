@@ -5,7 +5,7 @@ import org.junit.jupiter.api.*;
 import java.io.*;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class JSONCSVConverterTest {
+public class JsonCSVConverterTest {
     private static final String JSON_FILE = "test_students.json";
     private static final String CSV_FILE = "test_students.csv";
 
