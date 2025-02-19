@@ -25,7 +25,7 @@ public class EmployeeCSVSearchTest {
 
     @Test
     void testSearchEmployeeByName() {
-        Optional<String> result = searchEmployeeByName(TEST_FILE, "Jane Smith");
+        Optional<String> result = searchEmployeeByName(TEST_FILE, "Sanjh");
         assertTrue(result.isPresent(), "Employee should be found");
         assertEquals("IT,65000", result.get(), "Department and salary should match");
     }
