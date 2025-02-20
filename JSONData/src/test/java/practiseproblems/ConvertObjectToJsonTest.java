@@ -1,4 +1,4 @@
-package com.practiceproblems.json;
+package practiseproblems;
 import org.junit.jupiter.api.Test;
 import java.io.*;
 import static org.junit.jupiter.api.Assertions.*;

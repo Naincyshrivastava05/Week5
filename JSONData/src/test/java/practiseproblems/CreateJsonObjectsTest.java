@@ -1,4 +1,4 @@
-package com.practiceproblems.json;
+package practiseproblems;
 import org.junit.jupiter.api.Test;
 import practiseproblems.CreateJsonObject;
 

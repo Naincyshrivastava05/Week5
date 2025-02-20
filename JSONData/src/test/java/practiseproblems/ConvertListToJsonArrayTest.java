@@ -1,4 +1,4 @@
-package com.practiceproblems.json;
+package practiseproblems;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.practiceproblems.json.listobjectstojsonarray.Car;
 import org.junit.jupiter.api.Test;
