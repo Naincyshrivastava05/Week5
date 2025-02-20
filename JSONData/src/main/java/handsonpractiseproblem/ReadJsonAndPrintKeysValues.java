@@ -6,7 +6,8 @@ import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.*;
 
-public class ReadJsonAndPrintKeysValues {
+public class
+ReadJsonAndPrintKeysValues {
     public static void main(String[] args) {
         try {
             ObjectMapper objectMapper = new ObjectMapper();
