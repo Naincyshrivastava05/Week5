@@ -4,7 +4,7 @@ import practiseproblems.CreateJsonObject;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CreateJsonObjectTest {
+class CreateJsonObjectsTest {
 
     @Test
     void testJsonObjectCreation() {
